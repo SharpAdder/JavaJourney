@@ -15,6 +15,6 @@
    * #### [Boolean Operators: ! (not)](https://github.com/SharpAdder/JavaJourney/blob/main/booleanNot.java)
 
 ### Loops
- * #### [While loop]()
+ * #### [While loop](https://github.com/SharpAdder/JavaJourney/blob/main/while.Java)
 
 
