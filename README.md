@@ -5,5 +5,6 @@
 
 ## Table of contents
 * ### [First Java class | SOPL | concatenating variables](https://github.com/SharpAdder/JavaJourney/blob/main/variables.java)
+* ### [Strings and characters](https://github.com/SharpAdder/JavaJourney/blob/main/stringsCharacters.java)
 
 
