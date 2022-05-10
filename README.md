@@ -25,5 +25,5 @@ Before writing any code, make sure to install Java and set up the environment. H
 ### User Input
  * #### [Simple User Input](https://github.com/SharpAdder/JavaJourney/blob/main/simple_input.java)
  * #### [Multiplication with user input](https://github.com/SharpAdder/JavaJourney/blob/main/userInput_multiply.java)
- * #### [User string input]()
+ * #### [User string input](https://github.com/SharpAdder/JavaJourney/blob/main/userInput_string.java)
 
