@@ -19,6 +19,6 @@ Before writing any code, make sure to install Java and set up the environment. H
  * #### [for loop](https://github.com/SharpAdder/JavaJourney/blob/main/for.java)
 
 ### Casting
- * #### [Int to String | Double to string | class type]()
+ * #### [Int to String | Double to string | class type](https://github.com/SharpAdder/JavaJourney/blob/main/cast_int_to_string.java)
 
 
