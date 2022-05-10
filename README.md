@@ -16,5 +16,6 @@
 
 ### Loops
  * #### [While loop](https://github.com/SharpAdder/JavaJourney/blob/main/while.Java)
+ * #### [for loop]()
 
 
