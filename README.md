@@ -10,5 +10,6 @@
 * ### [String Operations](https://github.com/SharpAdder/JavaJourney/blob/main/stringOperations.java)
  ### Conditionals
    * #### [If-Else statement](https://github.com/SharpAdder/JavaJourney/blob/main/ifElse.java)
+   * #### [Boolean Operators: and](https://github.com/SharpAdder/JavaJourney/blob/main/booleanAnd.java)
 
 
