@@ -22,4 +22,6 @@ Before writing any code, make sure to install Java and set up the environment. H
  * #### [Int to String | Double to string | class type](https://github.com/SharpAdder/JavaJourney/blob/main/cast_int_to_string.java)
  * #### [String to Int | String to Double | type of values](https://github.com/SharpAdder/JavaJourney/blob/main/casting_stringToInt.java)
 
+### User Input
+ * #### [Simple User Input](https://github.com/SharpAdder/JavaJourney/blob/main/simple_input.java)
 
