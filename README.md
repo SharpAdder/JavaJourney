@@ -7,5 +7,6 @@
 * ### [First Java class | SOPL | concatenating variables](https://github.com/SharpAdder/JavaJourney/blob/main/variables.java)
 * ### [Strings and characters](https://github.com/SharpAdder/JavaJourney/blob/main/stringsCharacters.java)
 * ### [Math Operations](https://github.com/SharpAdder/JavaJourney/blob/main/mathOperations.java)
+* ### [String Operations](https://github.com/SharpAdder/JavaJourney/blob/main/stringOperations.java)
 
 
