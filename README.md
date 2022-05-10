@@ -4,6 +4,6 @@
 
 
 ## Table of contents
-### [First Java class | SOPL | concatenating variables]()
+### [First Java class | SOPL | concatenating variables](https://github.com/SharpAdder/JavaJourney/blob/main/variables.java)
 
 
