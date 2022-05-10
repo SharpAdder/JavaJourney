@@ -14,4 +14,7 @@
    * #### [Boolean Operators: || (or)](https://github.com/SharpAdder/JavaJourney/blob/main/booleanOr.java)
    * #### [Boolean Operators: ! (not)](https://github.com/SharpAdder/JavaJourney/blob/main/booleanNot.java)
 
+### Loops
+ * #### [While loop]()
+
 
