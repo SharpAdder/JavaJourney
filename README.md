@@ -27,3 +27,6 @@ Before writing any code, make sure to install Java and set up the environment. H
  * #### [Multiplication with user input](https://github.com/SharpAdder/JavaJourney/blob/main/userInput_multiply.java)
  * #### [User string input](https://github.com/SharpAdder/JavaJourney/blob/main/userInput_string.java)
 
+### Project
+* #### [Banking Project](https://github.com/SharpAdder/JavaJourney/tree/main/banking)
+
